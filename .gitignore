@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / outputs
+*.log
+output/
+results/
+
+# Secrets (never upload)
+*.env
+.env
+secrets.txt
+token.txt
+
