@@ -1,0 +1,6 @@
+PING 198.178.5.64 (198.178.5.64) 56(84) bytes of data.
+64 bytes from 198.178.5.64: icmp_seq=1 ttl=128 time=0.825 ms
+
+--- 198.178.5.64 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.825/0.825/0.825/0.000 ms
