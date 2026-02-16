@@ -1,18 +1,39 @@
-# Python Cybersecurity Scripts (Kali Linux)
+# Cybersecurity Learning
 
-This repository documents my hands-on cybersecurity learning journey using Python on Kali Linux.
-It includes beginner-to-intermediate scripts focused on networking fundamentals, sockets, and basic scanning.
+This repository documents my practical cybersecurity learning journey using Kali Linux.
 
-## Repository Structure
-- `01-basics/` — Python fundamentals used in security scripting
-- `02-networking/` — Networking concepts and small utilities
-- `03-sockets/` — Socket programming practice
-- `04-scanners/` — Simple scanners (port scanning, recon basics)
-- `99-notes/` — Notes and reference scripts
+I am learning by doing — not only watching videos — and building small tools and scripts to understand how real systems and networks work.
 
-## How to Run
-Example:
+---
 
-```bash
-python3 04-scanners/scanner.py
+## What I Practice
 
+• Linux terminal and permissions  
+• Networking fundamentals (IP, ports, ICMP, TCP)  
+• Bash scripting  
+• Python scripting for security  
+• Sockets and communication between machines  
+• Simple scanners and enumeration
+
+---
+
+## Folder Structure
+
+python/  → Python practice and security scripts  
+bash/    → Bash scripts (like IP sweep)  
+notes/   → Learning notes and observations
+
+---
+
+## Lab Practice
+
+All testing is done in a private virtual lab environment (Kali Linux + vulnerable machines such as Kioptrix).  
+No real systems are targeted.
+
+---
+
+## Goal
+
+My goal is to combine software development and cybersecurity so I can both:
+1. Build secure applications
+2. Understand how attackers actually think and operate
