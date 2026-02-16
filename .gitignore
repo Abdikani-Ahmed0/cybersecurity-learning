@@ -1,23 +1,52 @@
-# Python cache
+# =========================
+# Python
+# =========================
 __pycache__/
 *.pyc
-
-# Virtual env
+*.pyo
+*.pyd
+*.pyw
+*.egg-info/
 .venv/
 venv/
+env/
 
-# OS files
+# =========================
+# Secrets / Credentials
+# =========================
+.env
+*.env
+*.key
+*.pem
+*.crt
+*.pfx
+*.p12
+id_rsa
+id_dsa
+*.kdbx
+
+# =========================
+# Captures / Logs / Outputs
+# =========================
+*.pcap
+*.cap
+*.log
+*.out
+*.tmp
+loot/
+reports/
+
+# =========================
+# Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
 .DS_Store
 Thumbs.db
-
-# Logs / outputs
-*.log
-output/
-results/
-
-# Secrets (never upload)
-*.env
-.env
-secrets.txt
-token.txt
 
