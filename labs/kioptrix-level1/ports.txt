@@ -1,0 +1,14 @@
+# Nmap 7.98 scan initiated Wed Feb 18 07:32:58 2026 as: /usr/lib/nmap/nmap -T4 -p- -n --min-rate 1500 -oN ports.txt 192.168.3.129
+Nmap scan report for 192.168.3.129
+Host is up (0.0024s latency).
+Not shown: 65529 closed tcp ports (reset)
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+111/tcp   open  rpcbind
+139/tcp   open  netbios-ssn
+443/tcp   open  https
+32768/tcp open  filenet-tms
+MAC Address: [REDACTED] (VMware)
+
+# Nmap done at Wed Feb 18 07:33:07 2026 -- 1 IP address (1 host up) scanned in 8.53 seconds
