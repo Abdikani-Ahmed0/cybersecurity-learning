@@ -1,0 +1,75 @@
+/ ___| _   _| |__ | (_)___| |_|___ / _ __                    
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|                   
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |                      
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|                      
+                                                                             
+                # Coded By Ahmed Aboul-Ela - @aboul3la                       
+                                                                             
+[-] Enumerating subdomains now for tesla.com                                 
+[-] Searching now in Baidu..
+[-] Searching now in Yahoo..
+[-] Searching now in Google..
+[-] Searching now in Bing..
+[-] Searching now in Ask..
+[-] Searching now in Netcraft..
+[-] Searching now in DNSdumpster..
+[-] Searching now in Virustotal..
+[-] Searching now in ThreatCrowd..
+[-] Searching now in SSL Certificates..
+[-] Searching now in PassiveDNS..
+[!] DNSDumpster module failed: Could not find CSRF token on DNSDumpster page
+[!] Error: Virustotal probably now is blocking our requests
+[-] Total Unique Subdomains Found: 52
+www.tesla.com
+accounts.tesla.com
+ams13-gpgw1.tesla.com
+assets-ir.tesla.com
+auth.tesla.com
+billing.tesla.com
+cicerone.tesla.com
+apf-api.eng.vn.cloud.tesla.com
+fleet-api.prd.na.vn.cloud.tesla.com
+fleet-auth.prd.vn.cloud.tesla.com
+courses.tesla.com
+dal11-gpgw1.tesla.com
+developer.tesla.com
+digitalassets.tesla.com
+echo.tesla.com
+view.email.tesla.com
+powerhub.energy.tesla.com
+energylibrary.tesla.com
+engage.tesla.com
+epc.tesla.com
+feedback.tesla.com
+fra05-gpgw1.tesla.com
+hnd13-gpgw1.tesla.com
+iad05-gpgw1.tesla.com
+inside.tesla.com
+ion.tesla.com
+ir.tesla.com
+lax32-gpgw1.tesla.com
+link.tesla.com
+livestream.tesla.com
+logcollection.tesla.com
+mfa.tesla.com
+mfa-reset.tesla.com
+mobile.tesla.com
+ownership.tesla.com
+partners.tesla.com
+profile.tesla.com
+repair.tesla.com
+service.tesla.com
+shop.tesla.com
+solarbonds.tesla.com
+sso.tesla.com
+sso-dev.tesla.com
+static-assets.tesla.com
+static-assets-pay.tesla.com
+suppliers.tesla.com
+teamchat.tesla.com
+teslamezcal.tesla.com
+toolbox.tesla.com
+tradepartnertickets.tesla.com
+trt.tesla.com
+workforce.tesla.com
+
