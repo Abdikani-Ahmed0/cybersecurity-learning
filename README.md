@@ -1,39 +1,60 @@
-# Cybersecurity Learning
+# Cybersecurity Learning Journey
 
-This repository documents my practical cybersecurity learning journey using Kali Linux.
+This repository documents my hands-on cybersecurity learning, labs, scripts, and notes.
 
-I am learning by doing — not only watching videos — and building small tools and scripts to understand how real systems and networks work.
+## Repository Structure
 
----
+### Labs
+Practical exercises and vulnerable machine write-ups.
 
-## What I Practice
+- **Kioptrix Level 1**
+  - Enumeration
+  - Manual exploitation
+  - Hydra brute force
+  - Metasploit exploitation
+  - Hashcat password cracking
 
-• Linux terminal and permissions  
-• Networking fundamentals (IP, ports, ICMP, TCP)  
-• Bash scripting  
-• Python scripting for security  
-• Sockets and communication between machines  
-• Simple scanners and enumeration
+- **Basic LAN Lab**
+  - Packet Tracer topology
+  - Router configuration
 
----
+### Notes
+Cybersecurity study notes and cheat sheets.
 
-## Folder Structure
+Topics include:
+- Linux
+- Nmap
+- Metasploit
+- Web enumeration
+- Privilege escalation
+- Reconnaissance
 
-python/  → Python practice and security scripts  
-bash/    → Bash scripts (like IP sweep)  
-notes/   → Learning notes and observations
+### Python
+Python scripts developed while learning cybersecurity.
 
----
+Includes:
+- Port scanners
+- Socket listeners
+- Networking utilities
 
-## Lab Practice
+### Bash
+Shell scripts for automation.
 
-All testing is done in a private virtual lab environment (Kali Linux + vulnerable machines such as Kioptrix).  
-No real systems are targeted.
+Example:
+- IP sweep script
 
----
+### Recon
+Files generated during reconnaissance phases.
 
-## Goal
+## Skills Practiced
 
-My goal is to combine software development and cybersecurity so I can both:
-1. Build secure applications
-2. Understand how attackers actually think and operate
+- Network scanning and enumeration
+- Exploitation of vulnerable systems
+- Password attacks
+- Python scripting for security
+- Linux command-line usage
+
+## Platforms Used
+
+- Kali Linux
+- Virtual lab environments
