@@ -1,0 +1,14 @@
+# Nmap 7.98 scan initiated Tue Mar 17 22:10:47 2026 as: /usr/lib/nmap/nmap -T4 -p- -n --min-rate 1500 -oN ports.txt 192.168.3.130
+Nmap scan report for 192.168.3.130
+Host is up (0.0017s latency).
+Not shown: 65528 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+80/tcp   open  http
+111/tcp  open  rpcbind
+443/tcp  open  https
+626/tcp  open  apple-imap-admin
+631/tcp  open  ipp
+3306/tcp open  mysql
+
+# Nmap done at Tue Mar 17 22:11:00 2026 -- 1 IP address (1 host up) scanned in 12.68 seconds
